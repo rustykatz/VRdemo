@@ -21,7 +21,10 @@ Similar to how many great designers take inspiration from nature, the team aims 
 
 7) Note: if nothing loads in the scene, in Unity navigate to 'Assets > Scenes' and double click 'CityDemo'
 
-## Build Information
+8) If you encounter any compilation errors regarding missing libraries, ensure all build dependencies are installed via 'Package Manager'. Navigation is as follows 'Window > Package Manager' 
+
+
+## Build Dependency
 | DEPENDENCY  |  VERSION |
 | ------------- | ------------- |
 | Unity Version  | 2019.1.2f |
